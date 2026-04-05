@@ -19292,7 +19292,7 @@ function ku() {
                             children: [(0,
                             S.jsx)(`img`, {
                                 src: Eu,
-                                alt: `Alex Zan Bi`,
+                                alt: `KOMI Abdoul-Kabir`,
                                 className: `absolute inset-0 w-full h-full object-cover`
                             }), (0,
                             S.jsx)(`div`, {
