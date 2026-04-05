@@ -20559,7 +20559,7 @@ function Ku() {
                         duration: .6,
                         delay: .15
                     },
-                    children: `Startups, institutions, marques et plateformes avec lesquelles j'ai collaboré`
+                    children: `Entreprises et plateformes avec lesquelles j'ai collaboré`
                 })]
             }), (0,
             S.jsx)(X.div, {
@@ -20586,10 +20586,10 @@ function Ku() {
 }
 var qu = [{
     name: `TikTok`,
-    stat: `529K`,
-    handle: `@alex.zan.bi`,
-    url: `https://www.tiktok.com/@alex.zan.bi`,
-    desc: `Contenu tech, IA & entrepreneuriat. Plus de 300M de vues générées sur l'ensemble des plateformes en 16 mois d'activité.`,
+    stat: `1K`,
+    handle: `Kabir`,
+    url: ``,
+    desc: `Contenu sur le divertissement et la tech. Pas de publication récente, mais compte à surveiller.`,
     icon: (0,
     S.jsx)(`svg`, {
         viewBox: `0 0 24 24`,
@@ -20603,10 +20603,10 @@ var qu = [{
     })
 }, {
     name: `YouTube`,
-    stat: `4K`,
-    handle: `@alexzanbi`,
-    url: `https://www.youtube.com/@alexzanbi`,
-    desc: `Formats long format + YouTube Shorts. Contenus approfondis sur la tech et l'entrepreneuriat africain.`,
+    stat: `50K`,
+    handle: `Abdoul_kabir`,
+    url: ``,
+    desc: `Pas active pour le moment`,
     icon: (0,
     S.jsxs)(`svg`, {
         viewBox: `0 0 24 24`,
@@ -20623,10 +20623,10 @@ var qu = [{
     })
 }, {
     name: `Facebook`,
-    stat: `350K`,
-    handle: `Alex Zan Bi`,
-    url: `https://www.facebook.com/astephbi`,
-    desc: `Communauté active de 350 000 personnes. Publications régulières, partages et interactions quotidiennes.`,
+    stat: `4K+`,
+    handle: `Abdoul-kabir`,
+    url: `https://www.facebook.com/profile.php?id=100085872608804`,
+    desc: `Communauté active. Publications régulières, partages et interactions quotidiennes.`,
     icon: (0,
     S.jsx)(`svg`, {
         viewBox: `0 0 24 24`,
@@ -20640,10 +20640,10 @@ var qu = [{
     })
 }, {
     name: `LinkedIn`,
-    stat: `24K+`,
-    handle: `alexzanbi`,
-    url: `https://www.linkedin.com/in/alexzanbi/`,
-    desc: `Réflexions stratégiques sur la tech, le digital et l'entrepreneuriat africain depuis 2020.`,
+    stat: `1K-`,
+    handle: `Abdoul-kabir`,
+    url: `https://www.linkedin.com/in/komi-abdoul-kabir-a878b1390?utm_source=share_via&utm_content=profile&utm_medium=member_android`,
+    desc: `Partage sur la tech, le digital .`,
     icon: (0,
     S.jsxs)(`svg`, {
         viewBox: `0 0 24 24`,
@@ -20807,16 +20807,16 @@ function Yu() {
                         children: [(0,
                         S.jsx)(`span`, {
                             className: `text-blanc-casse font-medium`,
-                            children: `800K+ abonnés cumulés`
+                            children: `8K+ abonnés cumulés`
                         }), ` et `, (0,
                         S.jsx)(`span`, {
                             className: `text-blanc-casse font-medium`,
-                            children: `300M+ de vues`
-                        }), ` en 16 mois — le résultat de `, (0,
+                            children: `300k+ de vues`
+                        }), ` en 12 mois — le résultat de `, (0,
                         S.jsx)(`span`, {
                             className: `text-rouge font-medium`,
-                            children: `10 ans de terrain et de collaborations`
-                        }), `, concentrés en moins de 2 ans de contenu intense. “Je suis du style intense.”`]
+                            children: `1 an d'activité intense`
+                        }), `, concentrés en moins de 2 mois de contenu . “👌”`]
                     })]
                 })]
             }), (0,
@@ -20889,7 +20889,7 @@ function Xu() {
                     delay: .1
                 },
                 children: [`Visibilité, croissance,`, (0,
-                S.jsx)(`br`, {}), `formation — je suis là.`]
+                S.jsx)(`br`, {}), `— je suis là.`]
             }), (0,
             S.jsx)(X.p, {
                 className: `font-dm text-[1rem] leading-[1.8] text-white/78 mb-10`,
@@ -20905,7 +20905,7 @@ function Xu() {
                     duration: .6,
                     delay: .2
                 },
-                children: `Application mobile à lancer ? Stratégie de contenu à bâtir ? Formation en ligne à suivre ? Visibilité à décupler ? J'ai accompagné des dizaines d'entreprises et formé des centaines de personnes. Dites-moi où vous en êtes — je vous montre où aller.`
+                children: ` je vous aide à passer au niveau supérieur. Vous avez une application web ou mobile à lancer,   une présence en ligne à renforcer ? vous avez besoin d'un graphiste?  Je transforme vos idées en solutions concrètes et efficaces. J’ai collaboré avec des dizaines d’entreprises et contribué à améliorer leur visibilité et leur impact. Dites-moi où vous en êtes aujourd’hui, et je vous montrerai comment aller plus loin.`
             }), (0,
             S.jsxs)(X.div, {
                 className: `flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center items-stretch sm:items-center flex-wrap`,
@@ -20923,14 +20923,14 @@ function Xu() {
                 },
                 children: [(0,
                 S.jsx)(`a`, {
-                    href: `https://shop.alexzanbi.com/coaching-alex`,
+                    href: `https://l22550601-cyber.github.io/KB-portfolio/#realisations`,
                     target: `_blank`,
                     rel: `noopener noreferrer`,
                     className: `font-dm text-sm font-semibold bg-white text-rouge px-7 py-3.5 rounded-sm border border-white hover:bg-blanc-casse hover:-translate-y-0.5 hover:shadow-[0_8px_28px_rgba(0,0,0,0.2)] transition-all duration-200`,
-                    children: `Prendre une séance de coaching`
+                    children: `voir mes réalisations`
                 }), (0,
                 S.jsx)(`a`, {
-                    href: `https://shop.alexzanbi.com/`,
+                    href: ``,
                     target: `_blank`,
                     rel: `noopener noreferrer`,
                     className: `font-dm text-sm font-medium bg-transparent text-white px-7 py-3.5 rounded-sm border border-white/55 hover:border-white hover:-translate-y-0.5 transition-all duration-200`,
@@ -20962,7 +20962,7 @@ function Zu() {
                 }), (0,
                 S.jsx)(`p`, {
                     className: `font-dm text-[0.78rem] text-gris-texte text-center leading-relaxed`,
-                    children: `© 2025 KOMI Abdoul-kabir — développeur, Fondateur KB Design, kara`
+                    children: `© 2025 KOMI Abdoul-kabir — développeur full-stack, Graphiste Designer, kara`
                 }), (0,
                 S.jsx)(`ul`, {
                     className: `flex flex-wrap gap-6 list-none`,
@@ -20980,7 +20980,7 @@ function Zu() {
                         external: !1
                     }, {
                         label: `Formations`,
-                        href: `https://shop.alexzanbi.com/`,
+                        href: ``,
                         external: !0
                     }, {
                         label: `Contact`,
@@ -21004,8 +21004,8 @@ function Zu() {
         })
     })
 }
-var Qu = `2250779617656`
-  , $u = `Bonjour Alex, j'ai vu votre portfolio et j'aimerais discuter d'un projet avec vous.`;
+var Qu = `22891529402`
+  , $u = `Bonjour Abdoul-kabir, j'ai vu votre portfolio et j'aimerais discuter d'un projet avec vous.`;
 function ed() {
     let e = `https://wa.me/${Qu}?text=${encodeURIComponent($u)}`;
     return (0,
