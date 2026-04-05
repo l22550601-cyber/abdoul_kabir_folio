@@ -20375,36 +20375,27 @@ function Wu() {
     })
 }
 var Z = [{
-    name: `Wave`,
-    logo: `/logos/wave.png`,
-    initials: `WV`
+    name: `Edition Marco`,
+    logo: `/logos/marco.png`,
+    initials: `EM`
 }, {
-    name: `Orange CI`,
-    logo: `/logos/orange-ci.png`,
-    initials: `OCI`
+    name: `Groupe Entraide`,
+    logo: `/logos/entraide.png`,
+    initials: `GE`
+
 }, {
-    name: `Orange Money`,
-    logo: null,
-    initials: `OM`,
-    accent: `#FF6600`
-}, {
-    name: `DJAMO`,
-    logo: null,
-    initials: `DJ`,
-    accent: `#6C47FF`
-}, {
-    name: `Ecobank`,
-    logo: `/logos/ecobank.png`,
-    initials: `ECB`
+    name: `Zowai Savour`,
+    logo: `/logos/zowai.png`,
+    initials: `ZS`
 }, {
     name: `Daba Finance`,
     logo: null,
     initials: `DF`,
     accent: `#0E6E4D`
 }, {
-    name: `Immo+`,
-    logo: `/logos/immo-plus.png`,
-    initials: `I+`
+    name: `Winners`,
+    logo: `/logos/winners.png`,
+    initials: `TW`
 }, {
     name: `Chariow`,
     logo: `/logos/chariow.png`,
@@ -20430,26 +20421,7 @@ var Z = [{
     name: `Archibat`,
     logo: null,
     initials: `ARB`
-}, {
-    name: `Go Africa Online`,
-    logo: `/logos/go-africa.png`,
-    initials: `GAO`
-}, {
-    name: `MEST Africa`,
-    logo: `/logos/mest-africa.png`,
-    initials: `MA`
-}, {
-    name: `CI Tourisme`,
-    logo: null,
-    initials: `CIT`
-}, {
-    name: `Go My Code`,
-    logo: `/logos/go-my-code.png`,
-    initials: `GMC`
-}, {
-    name: `Epitech`,
-    logo: `/logos/epitech.png`,
-    initials: `EP`
+
 }];
 function Gu({partner: e}) {
     let t = e.accent || `#B02A1A`;
