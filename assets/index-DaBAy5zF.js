@@ -19213,7 +19213,7 @@ function Tu() {
         })]
     })
 }
-var Eu = `/assets/kb.png`;
+var Eu = `assets/kb.png`;
 function Du({children: e, direction: t=`up`, delay: n=0, className: r=``}) {
     let i = (0,
     b.useRef)(null)
