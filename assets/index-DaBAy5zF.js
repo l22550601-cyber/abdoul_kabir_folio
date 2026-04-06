@@ -19127,7 +19127,7 @@ function Tu() {
                         fontSize: `clamp(0.95rem, 1.4vw, 1.08rem)`
                     },
                     children: [`Developpeur full-stack · Graphiste · Copywriter.`, (0,
-                    S.jsx)(`br`, {}), `1 ans et demi dejà que je suis dans le hub du graphisme et du devellopement web - mobile, un monde passionnant et enrichissante.`]
+                    S.jsx)(`br`, {}), `1 ans et demi dejà que je suis dans le hub du graphisme et du devellopement web - mobile, un monde passionnant et enrichissant.`]
                 }), (0,
                 S.jsxs)(X.div, {
                     ...wu(.3),
