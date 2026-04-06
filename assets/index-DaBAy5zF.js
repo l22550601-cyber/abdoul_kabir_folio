@@ -19804,7 +19804,7 @@ var Ru = `/assets/ka.jpeg`
     value: `1 ans`,
     label: `d'exécution continue`
 }, {
-    value: `4 acteurs`,
+    value: `4 acteur`,
     label: `connectés sur le projet`
 }];
 function Bu() {
@@ -20016,7 +20016,7 @@ function Bu() {
 }
 var Vu = [{
     title: `Création de contenu`,
-    desc: `529K abonnés TikTok et 100M+ de vues ne s'improvisent pas. Je crée des formats courts, des podcasts et des contenus pédagogiques qui convertissent — et je vous apprends à faire pareil.`,
+    desc: `1K abonnés TikTok et 30K+ de vues ne s'improvisent pas. Je crée des formats courts de qualité.`,
     icon: (0,
     S.jsxs)(`svg`, {
         viewBox: `0 0 24 24`,
@@ -20037,8 +20037,8 @@ var Vu = [{
         })]
     })
 }, {
-    title: `Entrepreneuriat digital`,
-    desc: `Depuis début 2024, en moins de 18 mois : 50+ startups accompagnées dans leur stratégie de visibilité, leurs produits digitaux et le lancement de leurs premières applications. Si vous portez un projet digital, c'est exactement mon terrain.`,
+    title: `Branding & Identité visuelle`,
+    desc: `Création d'une identité visuelle forte et cohérente pour votre marque, avec un focus sur l'expérience utilisateur et la reconnaissance de marque.`,
     icon: (0,
     S.jsx)(`svg`, {
         viewBox: `0 0 24 24`,
@@ -20051,8 +20051,8 @@ var Vu = [{
         })
     })
 }, {
-    title: `Média & Écosystème`,
-    desc: `Mise en lumière des talents, startups et initiatives africaines à travers vidéos, interviews, publications et partenariats.`,
+    title: `Développement web sur mesure`,
+    desc: `Conception et développement de sites web et applications mobiles, de l’interface utilisateur jusqu’à la gestion des données pour divers clients. Spécialisation dans la création de solutions digitales sur mesure, alliant esthétique et fonctionnalité.`,
     icon: (0,
     S.jsxs)(`svg`, {
         viewBox: `0 0 24 24`,
@@ -20076,8 +20076,8 @@ var Vu = [{
         })]
     })
 }, {
-    title: `Formation & Transmission`,
-    desc: `J'ai formé des centaines de personnes à la création de contenu, au référencement digital et à l'entrepreneuriat. Coaching individuel ou programme en ligne — les résultats parlent d'eux-mêmes.`,
+    title: ` Design d’interfaces (UI/UX)`,
+    desc: `Conception d’interfaces utilisateur intuitives et esthétiques, avec une attention particulière à l’expérience utilisateur pour garantir une navigation fluide et engageante.`,
     icon: (0,
     S.jsxs)(`svg`, {
         viewBox: `0 0 24 24`,
@@ -20093,8 +20093,8 @@ var Vu = [{
         })]
     })
 }, {
-    title: `Stratégie digitale & IA`,
-    desc: `Audit de votre présence en ligne, stratégie de contenu, SEO, IA et automatisations. Je vous donne une feuille de route claire pour atteindre vos objectifs de visibilité — et on l'exécute.`,
+    title: `Applications académiques`,
+    desc: `Développement d'applications pour le milieu académique, avec un focus sur l'innovation et l'efficacité.`,
     icon: (0,
     S.jsxs)(`svg`, {
         viewBox: `0 0 24 24`,
@@ -20124,8 +20124,8 @@ var Vu = [{
         })]
     })
 }, {
-    title: `Ancrage Africain`,
-    desc: `Tout conçu pour l'Afrique francophone. Contenu accessible, problèmes concrets, solutions adaptées aux réalités du terrain.`,
+    title: ` Innovation digitale en Afrique`,
+    desc: `Promotion de l'innovation digitale en Afrique à travers des projets qui répondent aux besoins locaux et exploitent les opportunités du marché africain.`,
     icon: (0,
     S.jsxs)(`svg`, {
         viewBox: `0 0 24 24`,
@@ -20359,14 +20359,16 @@ function Wu() {
                         }), (0,
                         S.jsx)(`p`, {
                             className: `font-dm text-[0.97rem] leading-[1.9] text-gris-texte`,
-                            children: `Ma vision est de contribuer à changer cela. Je veux participer à la construction d'un écosystème où les créateurs, entrepreneurs, startups et institutions comprennent mieux le pouvoir du contenu, de la technologie et de la narration.`
+                            children: `l’Afrique regorge d’idées, de créativité et d’innovation, mais beaucoup restent 
+                  invisibles ou mal communiquées. Ce qu’elle demande, ce sont des projets porteurs avec une narration claire, des talents confiants dans leur valeur et des récits capables d’inspirer et de mobiliser..`
                         }), (0,
                         S.jsxs)(`p`, {
                             className: `font-dm text-[0.97rem] leading-[1.9] text-gris-texte`,
-                            children: [`Je crois aux formats qui éduquent, aux contenus qui ouvrent des portes, aux espaces qui permettent d'oser. Mon ambition est d'aider à faire émerger une nouvelle génération`, ` `, (0,
+                            children: [`c’est l’alliance de l’excellence, de la confiance et de la narration qui fera briller les initiatives 
+                  africaines à l’échelle mondiale`, ` `, (0,
                             S.jsx)(`strong`, {
                                 className: `text-blanc-casse font-medium`,
-                                children: `plus visible, plus stratégique et plus solide.`
+                                children: `- KB Design.`
                             })]
                         })]
                     })]
