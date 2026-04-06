@@ -18971,7 +18971,7 @@ function Cu() {
             S.jsxs)(`a`, {
                 href: `#hero`,
                 className: `font-syne text-2xl font-bold tracking-tight text-blanc-casse`,
-                children: [`Abdoul-Kabir`, (0,
+                children: [`A.Kabir`, (0,
                 S.jsx)(`span`, {
                     className: `text-rouge`,
                     children: `.`
