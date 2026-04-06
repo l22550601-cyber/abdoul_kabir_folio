@@ -19250,7 +19250,7 @@ function Du({children: e, direction: t=`up`, delay: n=0, className: r=``}) {
 }
 var Ou = [{
     date: `2023–2024`,
-    desc: `Bac D (Scientifiques) · Pivot vers les sciences de la vie et de le terre  · Poursuis une  Licence en Biologie `
+    desc: `Bac D (Scientifiques) · Pivot vers les sciences de la vie et de la terre où je  Poursuis une  Licence en Biologie `
 }, {
     date: `2024–2025`,
     desc: `Designer graphique freelance · Conception de sites web & applications mobiles · Réalisation d’affiches, flyers et visuels pour particuliers et petites structures`
@@ -19343,7 +19343,7 @@ function ku() {
                         children: [(0,
                         S.jsx)(`p`, {
                             className: `font-dm text-[0.98rem] leading-[1.85] text-gris-texte`,
-                            children: `Je suis KOMI Abdoul-Kabir, basé à Kara. Titulaire d'un Bac D  — je poursuis actuellement une licence en Biologie à la Faculté des sciences et Techniques de l'Université de Kara ... Par passion , je me suis plongé dans le l'univers du digital et du graphisme.`
+                            children: `Je suis KOMI Abdoul-Kabir, basé à Kara. Titulaire d'un Bac D  — je poursuis actuellement une licence en Biologie à la Faculté des sciences et Techniques de l'Université de Kara ... Par passion , je me suis plongé dans  l'univers du digital et du graphisme.`
                         }), (0,
                         S.jsx)(`p`, {
                             className: `font-dm text-[0.98rem] leading-[1.85] text-gris-texte`,
@@ -19798,14 +19798,14 @@ function Lu() {
 }
 var Ru = `/assets/ka.jpeg`
   , zu = [{
-    value: `$100K`,
+    value: `150K FCFA`,
     label: `levés à ce jour`
 }, {
-    value: `2 ans`,
+    value: `1 ans`,
     label: `d'exécution continue`
 }, {
-    value: `3 acteurs`,
-    label: `connectés sur la marketplace`
+    value: `4 acteurs`,
+    label: `connectés sur le projet`
 }];
 function Bu() {
     let e = (0,
@@ -19816,7 +19816,7 @@ function Bu() {
     });
     return (0,
     S.jsx)(`section`, {
-        id: `getmedford`,
+        id: `KLEX A`,
         className: `py-16 md:py-28 bg-noir overflow-hidden`,
         ref: e,
         children: (0,
@@ -19839,7 +19839,7 @@ function Bu() {
                     transition: {
                         duration: .6
                     },
-                    children: `Cofondateur · Nigeria`
+                    children: `fondateur · TOGO`
                 }), (0,
                 S.jsxs)(X.h2, {
                     className: `font-syne font-bold tracking-tight text-blanc-casse`,
@@ -19858,11 +19858,11 @@ function Bu() {
                         duration: .6,
                         delay: .1
                     },
-                    children: [`Getmedford — Startup en santé,`, (0,
+                    children: [`KLEX A — Startup Campus,`, (0,
                     S.jsx)(`br`, {}), (0,
                     S.jsx)(`span`, {
                         className: `text-rouge`,
-                        children: `nord du Nigeria`
+                        children: `Université TOGO`
                     })]
                 })]
             }), (0,
@@ -19890,7 +19890,7 @@ function Bu() {
                         children: [(0,
                         S.jsx)(`img`, {
                             src: Ru,
-                            alt: `Getmedford Nigeria`,
+                            alt: `Klex A - Togo`,
                             className: `absolute inset-0 w-full h-full object-cover`
                         }), (0,
                         S.jsx)(`div`, {
@@ -19908,7 +19908,7 @@ function Bu() {
                         children: [(0,
                         S.jsx)(`span`, {
                             className: `font-syne font-extrabold text-white text-xl block leading-none`,
-                            children: `$100K`
+                            children: `150K FCFA`
                         }), (0,
                         S.jsx)(`span`, {
                             className: `font-dm text-[0.62rem] text-white/80 mt-0.5 block`,
@@ -19946,7 +19946,8 @@ function Bu() {
                         }), (0,
                         S.jsx)(`p`, {
                             className: `font-dm text-[0.98rem] leading-[1.85] text-gris-texte`,
-                            children: `Dans le nord du Nigeria, l'accès aux médicaments est un défi quotidien. Les patients peinent à trouver les traitements dont ils ont besoin. Les pharmacies locales manquent de stock. Les distributeurs grossistes n'ont pas de canal direct avec le terrain. Un système fragmenté, coûteux, et parfois fatal.`
+                            children: `Les étudiants et chercheurs font face à une mauvaise organisation de leurs travaux académiques, avec des notes dispersées,
+                             fichiers PDF et applications comme WhatsApp, ce qui entraîne une perte d’informations, un manque de suivi des projets comme les mémoires et thèses, ainsi qu’une difficulté à collaborer efficacement ou à accéder à des ressources fiables, le tout aggravé par des outils inadaptés à leur réalité (connexion limitée, absence de structuration).`
                         })]
                     }), (0,
                     S.jsxs)(`div`, {
@@ -19954,30 +19955,30 @@ function Bu() {
                         children: [(0,
                         S.jsx)(`p`, {
                             className: `font-syne text-[0.72rem] font-semibold text-rouge tracking-[0.12em] uppercase mb-3`,
-                            children: `La solution Getmedford`
+                            children: `La solution Klex A`
                         }), (0,
                         S.jsxs)(`p`, {
                             className: `font-dm text-[0.98rem] leading-[1.85] text-gris-texte mb-4`,
-                            children: [`En 2024, je me suis rendu à Yola, dans le nord du Nigeria, pour travailler sur le terrain avec l'équipe. Getmedford est une marketplace qui connecte `, (0,
+                            children: [` KLEX A propose une plateforme digitale tout-en-un qui permet de `, (0,
                             S.jsx)(`strong`, {
                                 className: `text-blanc-casse font-medium`,
-                                children: `pharmacies, grands distributeurs et patients`
-                            }), ` sur une même plateforme — avec un chatbot WhatsApp qui automatise les commandes et permet à n'importe quel patient de trouver et commander ses médicaments, même sans smartphone avancé.`]
+                                children: ` centraliser les notes, organiser les travaux académiques, suivre l’avancement des projets, stocker et classer les ressources, faciliter la collaboration entre étudiants `
+                            }), ` sur une même plateforme — et offrir une interface simple, rapide et accessible même avec une faible connexion, afin de rendre le travail académique plus structuré, efficace et performant.`]
                         }), (0,
                         S.jsx)(`div`, {
                             className: `space-y-3`,
                             children: [{
                                 icon: `◈`,
-                                text: `Marketplace B2B2C reliant toute la chaîne pharmaceutique`
+                                text: `Application légère (faible connexion)`
                             }, {
                                 icon: `◈`,
-                                text: `Chatbot WhatsApp pour automatiser les commandes patients`
+                                text: `Mode hors ligne`
                             }, {
                                 icon: `◈`,
-                                text: `Déployé localement à Katsina, nord du Nigeria`
+                                text: `Interface simple et accessible`
                             }, {
                                 icon: `◈`,
-                                text: `Startup toujours active après 2 ans d'exécution`
+                                text: `Données locales + cloud backup`
                             }].map( ({icon: e, text: t}) => (0,
                             S.jsxs)(`div`, {
                                 className: `flex items-start gap-3`,
