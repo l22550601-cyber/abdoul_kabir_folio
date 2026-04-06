@@ -20379,16 +20379,16 @@ function Wu() {
 }
 var Z = [{
     name: `Edition Marco`,
-    logo: `/logos/marco.png`,
+    logo: `logos/marco.png`,
     initials: `EM`
 }, {
     name: `Groupe Entraide`,
-    logo: `/logos/entraide.png`,
+    logo: `logos/entraide.png`,
     initials: `GE`
 
 }, {
     name: `Zowai Savour`,
-    logo: `/logos/zowai.png`,
+    logo: `logos/zowai.png`,
     initials: `ZS`
 }, {
     name: `Daba Finance`,
@@ -20397,15 +20397,15 @@ var Z = [{
     accent: `#0E6E4D`
 }, {
     name: `Winners`,
-    logo: `/logos/winners.png`,
+    logo: `logos/winners.png`,
     initials: `TW`
 }, {
     name: `Chariow`,
-    logo: `/logos/chariow.png`,
+    logo: `logos/chariow.png`,
     initials: `CH`
 }, {
     name: `Oraimo`,
-    logo: `/logos/oraimo.png`,
+    logo: `logos/oraimo.png`,
     initials: `ORM`
 }, {
     name: `Infinix`,
@@ -20414,7 +20414,7 @@ var Z = [{
     accent: `#E31E24`
 }, {
     name: `Itel`,
-    logo: `/logos/itel.png`,
+    logo: `logos/itel.png`,
     initials: `IT`
 }, {
     name: `Ordre des Architectes`,
