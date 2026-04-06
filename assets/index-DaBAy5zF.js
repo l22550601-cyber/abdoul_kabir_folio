@@ -18993,7 +18993,7 @@ function Cu() {
                 className: `hidden md:flex items-center gap-3`,
                 children: [(0,
                 S.jsx)(`a`, {
-                    href: `https://shop.alexzanbi.com/`,
+                    href: ``,
                     target: `_blank`,
                     rel: `noopener noreferrer`,
                     className: `font-dm text-sm font-medium text-gris-texte border border-blanc-casse/15 px-5 py-2.5 rounded-sm hover:text-blanc-casse hover:border-blanc-casse/40 hover:-translate-y-px transition-all duration-200`,
@@ -19048,7 +19048,7 @@ function Cu() {
                     children: e
                 }, t)), (0,
                 S.jsx)(`a`, {
-                    href: `https://shop.alexzanbi.com/`,
+                    href: ``,
                     target: `_blank`,
                     rel: `noopener noreferrer`,
                     onClick: o,
