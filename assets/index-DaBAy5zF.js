@@ -19796,7 +19796,7 @@ function Lu() {
         })
     })
 }
-var Ru = `/assets/ka.jpeg`
+var Ru = `assets/ka.jpeg`
   , zu = [{
     value: `150K FCFA`,
     label: `levés à ce jour`
