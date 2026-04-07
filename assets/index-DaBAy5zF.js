@@ -19671,6 +19671,7 @@ var Fu = [{
     title: `Site web de Bibliotheque en ligne`,
     desc: `Bibliothèque en ligne Ce projet est une plateforme web moderne permettant aux utilisateurs de consulter et rechercher des livres en ligne facilement. Le site offre une interface moderne, qui permet de parcourir différentes catégories de livres, d’accéder aux informations détaillées de chaque ouvrage et de faciliter la gestion des ressources numériques. Ce projet met en avant mes compétences en développement web,
      notamment en conception d’interfaces modernes, en gestion de données et en création d’expériences utilisateur fluides..`,
+     href: `https://kbyokara.free.nf/`,
     tags: [`Tech`, `KB Design`, `devops`, `graphisme`]
 }, {
     num: `02`,
