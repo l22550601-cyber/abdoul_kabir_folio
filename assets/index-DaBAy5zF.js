@@ -20391,40 +20391,12 @@ var Z = [{
     name: `Zowai Savour`,
     logo: `logos/zowai.png`,
     initials: `ZS`
-}, {
-    name: `Daba Finance`,
-    logo: null,
-    initials: `DF`,
-    accent: `#0E6E4D`
+
 }, {
     name: `Winners`,
     logo: `logos/winners.png`,
     initials: `TW`
-}, {
-    name: `Chariow`,
-    logo: `logos/chariow.png`,
-    initials: `CH`
-}, {
-    name: `Oraimo`,
-    logo: `logos/oraimo.png`,
-    initials: `ORM`
-}, {
-    name: `Infinix`,
-    logo: null,
-    initials: `INX`,
-    accent: `#E31E24`
-}, {
-    name: `Itel`,
-    logo: `logos/itel.png`,
-    initials: `IT`
-}, {
-    name: `Ordre des Architectes`,
-    logo: null,
-    initials: `OA`
-}, {
-    name: `Archibat`,
-    logo: null,
-    initials: `ARB`
+
 
 }];
 function Gu({partner: e}) {
